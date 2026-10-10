@@ -5,7 +5,7 @@ TCC em Ciência de Dados (UVV) — análise estatística e Machine Learning sobr
 
 Trabalho de Conclusão de Curso em Ciência de Dados (Universidade Vila Velha). Análise estatística do UWine, um clube de vinhos universitário fictício, com 1,12 milhão de notas fiscais simuladas e 23 variáveis.
 
-**Vídeo de apresentação:** [link do YouTube]
+**Vídeo de apresentação:** [(https://www.youtube.com/watch?v=2plNuetyDpc)]
 
 ## O que este projeto responde
 
